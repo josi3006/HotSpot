@@ -1,0 +1,19 @@
+{
+  "name": "hotspot",
+  "version": "1.0.0",
+  "description": "Book a Table at The Hot Spot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josi3006/HotSpot.git"
+  },
+  "author": "John G Sims",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josi3006/HotSpot/issues"
+  },
+  "homepage": "https://github.com/josi3006/HotSpot#readme"
+}
